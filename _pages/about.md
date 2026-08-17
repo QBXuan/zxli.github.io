@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a four year undergraduate student from [Anhui University](https://www.ahu.edu.cn/). My research interest includes reinforcement learning and applied mathematics.
+I am a senior undergraduate student at [Anhui University](https://www.ahu.edu.cn/), broadly interested in reinforcement learning and applied mathematics.
 
 <!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
 
